@@ -18,5 +18,7 @@ let's take an example.
 3. low number - 1899 high number - 9981 result - 8082
 4. low number - 8820 high number - 288  result - 8532
 5. low number - 2358 high number - 8532  result - **6174**
+   
 see there you go
+
 The python code demonstrates this.
